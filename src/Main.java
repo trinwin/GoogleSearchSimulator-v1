@@ -7,7 +7,6 @@
  *
  * @author  Trinh Nguyen
  * @class   CS146-07
- * @Programming_Assignment_1
  * @version 1.0
  * @date    2018-10-20
  */
