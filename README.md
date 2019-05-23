@@ -24,4 +24,5 @@ Google's search engine is a powerful tool and I want to create a simulator Googl
 ## Plan for GoogleSearchSimulator v2
 * Improve the performance of the application using BST, Bucket Sort and Quicksort
 * Add new features to the app
-Link to [GoogleSearchSimulator v2](https://github.com/trinhng01/GoogleSearchSimulator-v2) 
+
+#### Link to [GoogleSearchSimulator v2](https://github.com/trinhng01/GoogleSearchSimulator-v2) 
